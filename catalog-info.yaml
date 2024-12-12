@@ -17,3 +17,5 @@ spec:
   type: application
   owner: Götarna
   lifecycle: production
+  dependsOn:
+    - resource:default/gbgfarligtavfall
