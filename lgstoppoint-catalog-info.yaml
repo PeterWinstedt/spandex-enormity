@@ -17,5 +17,7 @@ spec:
   type: website
   owner: Götarna
   lifecycle: production
+  subcomponnentof: linjeguiden
+  testing: stuff
   subcomponentof:
     - component:linjeguiden
