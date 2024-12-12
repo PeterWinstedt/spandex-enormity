@@ -19,3 +19,4 @@ spec:
   lifecycle: production
   dependsOn:
     - component:gbgfarligtavfall
+  system: spandexsystem
