@@ -17,4 +17,4 @@ spec:
   type: website
   owner: Svearna
   lifecycle: production
-  component: linjeguiden
+  subcomponentOf: linjeguiden
